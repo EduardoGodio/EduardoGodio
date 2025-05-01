@@ -1,1 +1,5 @@
-### Olá 👋
+### Olá 👋💻
+
+🇧🇷 Meu nome é Eduardo Godio, atualmente estou cursando 🎓 Ciência da Computação na UVV - Universidade Vila Velha 🎓. Sempre tive interesse sobre tecnologia e poder cada vez mais despertar esse interesse é muito motivador para mim. Tive o contato com a área SAP que me fez ter grande interesse em aprimorar meu conhecimento nesse ramo. Já tenho grande conhecimento em ABAP tradicional, orientação a objetos (OO) e relatórios ALV, e estou sempre evoluindo minhas habilidades para acompanhar as novas demandas e tendências da área.
+
+🇺🇸 My name is Eduardo Godio, I am currently studying 🎓 Computer Science at UVV - Vila Velha University 🎓. I have always been interested in technology and being able to increasingly awaken this interest is very motivating for me. I had contact with the SAP area that made me have a great interest in improving my knowledge in this field. I already have extensive knowledge in traditional ABAP, object-oriented (OO) and ALV reports, and I am always evolving my skills to keep up with new demands and trends in the area.
